@@ -17,10 +17,10 @@ ZanPress 项目文档。维护者：[@TeamZan](https://github.com/zan-press)。
 
 ## 项目文档列表
 
-- [用户需求](https://shimo.im/docs/zvk9dz7Y2zIdFnq2)
-- [问题陈述（详细说明）](https://shimo.im/docs/Zg3oxOPLW8I0Fyqv)
-- [软件需求规格说明书](https://shimo.im/docs/xlkbElypoBU9F9q8)
-- 原型
+- [用户需求 | 石墨文档](https://shimo.im/docs/zvk9dz7Y2zIdFnq2)
+- [问题陈述（详细说明）| 石墨文档](https://shimo.im/docs/Zg3oxOPLW8I0Fyqv)
+- [软件需求规格说明书 | 石墨文档](https://shimo.im/docs/xlkbElypoBU9F9q8)
+- [原型设计 | Figma 在线原型](https://www.figma.com/proto/PTmmShTWCLhiowKNrGAplq/Main?node-id=67%3A201&viewport=-258%2C327%2C0.35577651858329773&scaling=contain)
 - 软件设计规格说明书
 
 ## 写作方式
